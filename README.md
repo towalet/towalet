@@ -1,6 +1,6 @@
 # Anthony Vydysh
 
-**Honours Bachelor of Computer Science – Cloud Computing @ Sheridan College (2027)**  
+**Honours Bachelor of Computer Science - Cloud Computing @ Sheridan College (2027)**  
 Cloud, backend • Music producer (towa.wav) • Always building something new
 
 ---
