@@ -5,7 +5,7 @@ Cloud, backend • Music producer (towa.wav) • Always building something new
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 I'm a computer science student focusing on **cloud computing** and **backend development**.  
 I like taking projects from *idea → design → deployment*, and I always think about:
@@ -39,7 +39,7 @@ On the side, I’m a **music producer (towa.wav)** and I’m especially interest
 
 ---
 
-## How I Work
+# How I Work
 
 - **Analytical & troubleshooting-oriented** - I enjoy digging into broken systems, logs, and edge cases.  
 - **Operational excellence mindset** - I care about monitoring, reliability, and smooth deployments, not just “it works on my machine.”  
@@ -50,7 +50,7 @@ On the side, I’m a **music producer (towa.wav)** and I’m especially interest
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### BeatScan - Audio Fingerprint Detection Platform
 **Stack:** Django, PostgreSQL, ACRCloud, AWS (EC2, S3/EBS)
