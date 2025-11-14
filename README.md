@@ -63,7 +63,7 @@ A web app that helps music producers detect unauthorized use of their beats acro
   - reduces cloud storage requirements and API usage costs,
   - speeds up scan responses and improves user experience.  
 - Designed the app with a business mindset: credits, membership tiers, and scalable architecture.
-- 
+  
 👉 _Repo:_ [`BeatScan Portfolio`](https://github.com/towalet/BeatScan-Portfolio)
 
 ---
