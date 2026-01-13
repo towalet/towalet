@@ -52,7 +52,9 @@ On the side, I’m a **music producer (towa.wav)** and I’m especially interest
 
 ## 🚀 Featured Projects
 
-### BeatScan - Audio Fingerprint Detection Platform (In progress)
+### BeatScan - Audio Fingerprint Detection Platform 
+_Website:_ [`BeatScan.io`](https://beatscan.io/)
+
 **Stack:** Django, PostgreSQL, ACRCloud, AWS (EC2, S3/EBS)
 
 A web app that helps music producers detect unauthorized use of their beats across streaming platforms.
